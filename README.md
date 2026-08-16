@@ -56,9 +56,3 @@ Sentiment Prediction
 | Naive Bayes | 87.98% | 88.10% |
 | Linear SVM | 89.92% | 90.01% |
 
-## 🚀 Run Locally
-
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
